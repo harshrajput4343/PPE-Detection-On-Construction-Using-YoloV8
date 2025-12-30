@@ -11,11 +11,11 @@ There have been various accidents in construction sites, due to the lack of safe
 
 For easier use the dataset is already uploaded here: [**Kaggle Dataset**](https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow).
 
-The dataset consists of 2801 image samples with labels in YoloV8 format. These images are split into `train: 2605`, `valid: 114` and `test: 82` sets. Each folder consists of `images` and `labels` folders.
+The dataset consists of 2801 image samples with labels in YoloV8 format. These images are split into `For training: 2605`, `For validation: 114` and `testing: 82` sets. Each folder consists of `images` and `labels` folders.
 
 There are 10 classes to detect from the dataset: 
 
-**'Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle'**
+**'Hardhat' , 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle'**
 
 
 ![](assets/ppe.webp)
