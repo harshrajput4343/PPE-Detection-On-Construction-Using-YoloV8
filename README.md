@@ -25,7 +25,7 @@ There are 10 classes to detect from the dataset:
 
 The code was run on Kaggle, with a P100 GPU. We installed the `ultralytics` library by [**Ultralytics**](https://docs.ultralytics.com) to run YoloV8 custom object detection on the dataset.
 
-For more information check out this notebook: [**Check yo'self before you wreck yo'self - CSS EDA**](https://www.kaggle.com/code/snehilsanyal/check-yo-self-before-you-wreck-yo-self-css-eda). 
+
 
 **Note:** This repository contains all the results, visualizations and best model after custom training on the dataset.
 
